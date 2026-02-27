@@ -30,7 +30,12 @@ GITHUB_URLS = [
     'githubstatus.com', 'live.github.com', 'media.githubusercontent.com',
     'objects.githubusercontent.com', 'pipelines.actions.githubusercontent.com',
     'raw.githubusercontent.com', 'user-images.githubusercontent.com',
-    'vscode.dev', 'education.github.com', 'private-user-images.githubusercontent.com'
+    'vscode.dev', 'education.github.com', 'private-user-images.githubusercontent.com',
+    'mtalk.google.com', 'alt1-mtalk.google.com', 'alt2-mtalk.google.com',
+    'alt3-mtalk.google.com', 'alt4-mtalk.google.com', 'alt5-mtalk.google.com',
+    'alt6-mtalk.google.com', 'alt7-mtalk.google.com', 'alt8-mtalk.google.com',
+    'dl.google.com', 'dl.l.google.com', 'mtalk4.google.com',
+    'mtalk-staging.google.com', 'mtalk-dev.google.com'
 ]
 
 HOSTS_TEMPLATE = """# GitHub520 Host Start
