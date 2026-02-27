@@ -5,8 +5,11 @@ name: GitHub520
 
 on:
   push:
+    tags-ignore:
+      - "v*.*.*"
   schedule:
     - cron: '0 */3 * * *'
+  workflow_dispatch:
 
 jobs:
   build:
