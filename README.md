@@ -76,16 +76,27 @@
 13.107.226.39                 vscode.dev
 140.82.112.21                 education.github.com
 185.199.109.133               private-user-images.githubusercontent.com
+172.253.62.188                mtalk.google.com
+192.178.213.188               alt1-mtalk.google.com
+172.253.116.188               alt2-mtalk.google.com
+192.178.223.188               alt3-mtalk.google.com
+173.194.76.188                alt4-mtalk.google.com
+142.250.102.188               alt5-mtalk.google.com
+192.178.213.188               alt6-mtalk.google.com
+142.251.127.188               alt7-mtalk.google.com
+192.178.163.188               alt8-mtalk.google.com
+64.233.180.91                 dl.google.com
+192.178.155.136               dl.l.google.com
 
 
-# Update time: 2026-02-27T11:03:34+08:00
+# Update time: 2026-02-27T12:46:41+08:00
 # Update url: https://raw.hellogithub.com/hosts
 # Star me: https://github.com/521xueweihan/GitHub520
 # GitHub520 Host End
 
 ```
 
-该内容会自动定时更新， 数据更新时间：2026-02-27T11:03:34+08:00
+该内容会自动定时更新， 数据更新时间：2026-02-27T12:46:41+08:00
 
 #### 2.1.2 修改 hosts 文件
 
