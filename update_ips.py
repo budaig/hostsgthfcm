@@ -16,7 +16,7 @@ from common import write_hosts_content
 
 @retry(tries=3)
 def get_json(session: Any) -> Optional[list]:
-    url = 'https://raw.hellogithub.com/hosts.json'
+    url = 'https://raw.githubusercontent.com/budaig/hostsgthfcm/refs/heads/main/hosts.json'
     try:
         rs = session.get(url)
         data = json.loads(rs.text)
